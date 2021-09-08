@@ -1,0 +1,16 @@
+C:\Users\Agustín\Desktop\1\ejerciciodeclase02-delgadoagustin\cuenta_banco\cuenta_banco\bin\Debug\net5.0\cuenta_banco.exe
+C:\Users\Agustín\Desktop\1\ejerciciodeclase02-delgadoagustin\cuenta_banco\cuenta_banco\bin\Debug\net5.0\cuenta_banco.deps.json
+C:\Users\Agustín\Desktop\1\ejerciciodeclase02-delgadoagustin\cuenta_banco\cuenta_banco\bin\Debug\net5.0\cuenta_banco.runtimeconfig.json
+C:\Users\Agustín\Desktop\1\ejerciciodeclase02-delgadoagustin\cuenta_banco\cuenta_banco\bin\Debug\net5.0\cuenta_banco.runtimeconfig.dev.json
+C:\Users\Agustín\Desktop\1\ejerciciodeclase02-delgadoagustin\cuenta_banco\cuenta_banco\bin\Debug\net5.0\cuenta_banco.dll
+C:\Users\Agustín\Desktop\1\ejerciciodeclase02-delgadoagustin\cuenta_banco\cuenta_banco\bin\Debug\net5.0\ref\cuenta_banco.dll
+C:\Users\Agustín\Desktop\1\ejerciciodeclase02-delgadoagustin\cuenta_banco\cuenta_banco\bin\Debug\net5.0\cuenta_banco.pdb
+C:\Users\Agustín\Desktop\1\ejerciciodeclase02-delgadoagustin\cuenta_banco\cuenta_banco\obj\Debug\net5.0\cuenta_banco.csproj.AssemblyReference.cache
+C:\Users\Agustín\Desktop\1\ejerciciodeclase02-delgadoagustin\cuenta_banco\cuenta_banco\obj\Debug\net5.0\cuenta_banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agustín\Desktop\1\ejerciciodeclase02-delgadoagustin\cuenta_banco\cuenta_banco\obj\Debug\net5.0\cuenta_banco.AssemblyInfoInputs.cache
+C:\Users\Agustín\Desktop\1\ejerciciodeclase02-delgadoagustin\cuenta_banco\cuenta_banco\obj\Debug\net5.0\cuenta_banco.AssemblyInfo.cs
+C:\Users\Agustín\Desktop\1\ejerciciodeclase02-delgadoagustin\cuenta_banco\cuenta_banco\obj\Debug\net5.0\cuenta_banco.csproj.CoreCompileInputs.cache
+C:\Users\Agustín\Desktop\1\ejerciciodeclase02-delgadoagustin\cuenta_banco\cuenta_banco\obj\Debug\net5.0\cuenta_banco.dll
+C:\Users\Agustín\Desktop\1\ejerciciodeclase02-delgadoagustin\cuenta_banco\cuenta_banco\obj\Debug\net5.0\ref\cuenta_banco.dll
+C:\Users\Agustín\Desktop\1\ejerciciodeclase02-delgadoagustin\cuenta_banco\cuenta_banco\obj\Debug\net5.0\cuenta_banco.pdb
+C:\Users\Agustín\Desktop\1\ejerciciodeclase02-delgadoagustin\cuenta_banco\cuenta_banco\obj\Debug\net5.0\cuenta_banco.genruntimeconfig.cache

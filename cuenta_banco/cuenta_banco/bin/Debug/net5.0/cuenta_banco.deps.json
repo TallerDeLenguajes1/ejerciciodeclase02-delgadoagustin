@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "cuenta_banco/1.0.0": {
+        "runtime": {
+          "cuenta_banco.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cuenta_banco/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
