@@ -35,9 +35,10 @@ namespace cuenta_banco
     }
     class corriente_dolares : cuenta_herencia
     {
+        private DateTime ultima_extraccion;
         public override void extraccion(int monto, TipoDeExtraccion tipo)
         {
-            if (monto <= 200 && dinero - monto >= 0 && tipo == TipoDeExtraccion.CajeroAutomatico)
+            if (monto <= 200 && dinero - monto >= 0 && tipo == TipoDeExtraccion.CajeroAutomatico && ultima_extraccion.Date!=DateTime.Today.Date)
             {
                 dinero -= monto;
                 Console.WriteLine("Extraccion por cajero automatico realizada con exito");
